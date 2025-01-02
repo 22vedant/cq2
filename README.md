@@ -17,4 +17,4 @@ CQ2 is a tool for RFCs, designed for thoughtfulness and coherence. [Learn more](
 
 ## License
 
-CQ2 is distributed under the AGPLv3 [license](https://github.com/cq2-co/cq2/blob/main/LICENSE).
+CQ2 is distributed under the AGPLv3 [license](https://github.com/anandbaburajan/cq2/blob/main/LICENSE).

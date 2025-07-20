@@ -28,7 +28,7 @@ export default function Home() {
             >
               <GitHubLogoSVG className="h-[1.35rem] w-[1.35rem]" />
             </Link>
-            <Link href="mailto:anand@cq2.co" className="mb-10 block w-fit">
+            <Link href="mailto:hi@anandbaburajan.com" className="mb-10 block w-fit">
               <Mail className="h-[1.35rem] w-[1.35rem]" strokeWidth={1.3} />
             </Link>
             <Link href="/app/document/demo/v1" className="mb-2 block w-fit">

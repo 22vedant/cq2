@@ -20,7 +20,7 @@ const SiteTopNav = () => {
           <Link href="https://github.com/cq2-co/cq2" className="mr-8">
             <GitHubLogoSVG className="h-[1rem] w-[1rem]" />
           </Link>
-          <Link href="mailto:anand@cq2.co">
+          <Link href="mailto:hi@anandbaburajan.com">
             <Mail className="h-[1.2rem] w-[1.2rem]" strokeWidth={1.3} />
           </Link>
         </div>

@@ -12,8 +12,13 @@ CQ2 is a tool for RFCs, designed for thoughtfulness and coherence. [Learn more](
    alt="CQ2 meta"
 />
 
-> [!NOTE]
-> If you want to self-host, contribute or discuss about CQ2, contact us [here](mailto:hi@anandbaburajan.com).
+## My Fork
+
+[ ] Switch mongo db to postgres. 
+[ ] Tiptap @mentions
+[ ] Currently, we can only create 2 version - Draft and Final. Try to make `n` number of version based on the author. 
+[ ] Version comparison
+[ ] Abiility to the chat to PDF, 
 
 ## License
 
